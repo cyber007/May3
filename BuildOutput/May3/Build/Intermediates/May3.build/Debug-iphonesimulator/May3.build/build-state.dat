@@ -1,0 +1,263 @@
+TMay3
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app/Info.plist May3/May3-Info.plist
+cProcessPCH /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/PrecompiledHeaders/May3-Prefix-cjbesqbjiqrukxbgsabxrhagxhpz/May3-Prefix.pch.pth May3/May3-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/main.o /Users/admin/Documents/Project/May3/May3/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/View.o /Users/admin/Documents/Project/May3/May3/View.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/KeAppDelegate.o /Users/admin/Documents/Project/May3/May3/KeAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/KeViewController.o /Users/admin/Documents/Project/May3/May3/KeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app/May3 normal i386
+cGenerateDSYMFile /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app.dSYM /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app/May3
+cCopyStringsFile /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app/en.lproj/InfoPlist.strings May3/en.lproj/InfoPlist.strings
+cTouch /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F6B5D530000000000000110
+t1332436307
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F6A3A760000000000244490
+t1332361846
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F6A3A770000000000353830
+t1332361847
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F6A3A7D0000000000905E40
+t1332361853
+s9461312
+
+N/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/KeAppDelegate.o
+t1335990213
+s60940
+
+N/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/KeViewController.o
+t1335990522
+s47580
+
+N/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/May3.LinkFileList
+c000000004FA197C40000000000000255
+t1335990212
+s597
+
+N/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/View.o
+t1335991164
+s55480
+
+N/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/main.o
+t1335990213
+s3164
+
+N/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/PrecompiledHeaders/May3-Prefix-cjbesqbjiqrukxbgsabxrhagxhpz/May3-Prefix.pch.pth
+t1335990212
+s4028980
+
+N/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app
+t1335991164
+s204
+
+N/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app.dSYM
+t1335991164
+s102
+
+N/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app/Info.plist
+t1335990212
+s783
+
+N/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app/May3
+t1335991164
+s23768
+
+N/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app/PkgInfo
+t1335990212
+s8
+
+N/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app/en.lproj/InfoPlist.strings
+t1335990213
+s42
+
+N/Users/admin/Documents/Project/May3/May3/KeAppDelegate.h
+c000000004FA197C4000000000000012D
+t1335990212
+s301
+
+N/Users/admin/Documents/Project/May3/May3/KeAppDelegate.m
+c000000004FA197C40000000000000946
+t1335990212
+s2374
+
+N/Users/admin/Documents/Project/May3/May3/KeViewController.h
+c000000004FA1956700000000000000D7
+t1335989607
+s215
+
+N/Users/admin/Documents/Project/May3/May3/KeViewController.m
+c000000004FA196F300000000000003F6
+t1335990003
+s1014
+
+N/Users/admin/Documents/Project/May3/May3/May3-Prefix.pch
+c000000004FA1943B0000000000000137
+t1335989307
+s311
+
+N/Users/admin/Documents/Project/May3/May3/View.h
+c000000004FA198F90000000000000194
+t1335990521
+s404
+
+N/Users/admin/Documents/Project/May3/May3/View.m
+c000000004FA19B9E0000000000000A56
+t1335991198
+s2646
+
+N/Users/admin/Documents/Project/May3/May3/en.lproj/InfoPlist.strings
+c000000004FA1943B000000000000002D
+t1335989307
+s45
+
+N/Users/admin/Documents/Project/May3/May3/main.m
+c000000004FA1943B0000000000000150
+t1335989307
+s336
+
+NMay3/May3-Info.plist
+c000000004FA1943B0000000000000493
+t1335989307
+s1171
+
+CBuild AST from /Users/admin/Documents/Project/May3/May3/KeAppDelegate.m
+r0
+
+CBuild AST from /Users/admin/Documents/Project/May3/May3/KeViewController.m
+r0
+
+CBuild AST from /Users/admin/Documents/Project/May3/May3/View.m
+r0
+
+CBuild AST from /Users/admin/Documents/Project/May3/May3/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies024aa71ed351b541^52b5a91ed351b541^---0#1#0#--18"Check dependencies36"C7983FBE-38B2-4237-944F-25325505218A-
+
+CCompileC BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/KeAppDelegate.o /Users/admin/Documents/Project/May3/May3/KeAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s357683012.912024
+e357683013.085934
+r1
+xCompileC
+xBuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/KeAppDelegate.o
+x/Users/admin/Documents/Project/May3/May3/KeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/admin/Documents/Project/May3/May3/KeAppDelegate.m4fb2e944cf51b541^170c1645cf51b541^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/admin/Documents/Project/May3/May3/KeAppDelegate.m0000000000000000^3484"CompileC BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/KeAppDelegate.o May3/KeAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Documents/Project/May3    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/May3-generated-files.hmap -I/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/May3-own-target-headers.hmap -I/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/May3-all-target-headers.hmap -iquote /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/May3-project-headers.hmap -I/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/include -I/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/DerivedSources/i386 -I/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/DerivedSources -F/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator -include /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/PrecompiledHeaders/May3-Prefix-cjbesqbjiqrukxbgsabxrhagxhpz/May3-Prefix.pch -MMD -MT dependencies -MF /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/KeAppDelegate.d --serialize-diagnostics /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/KeAppDelegate.dia -c /Users/admin/Documents/Project/May3/May3/KeAppDelegate.m -o /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/KeAppDelegate.o36"C7A39561-AFE8-45B0-9FF0-D3019DAE9AA6-
+
+CCompileC BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/KeViewController.o /Users/admin/Documents/Project/May3/May3/KeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s357683321.960689
+e357683322.031027
+r1
+xCompileC
+xBuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/KeViewController.o
+x/Users/admin/Documents/Project/May3/May3/KeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/admin/Documents/Project/May3/May3/KeViewController.m6e13f679d051b541^aaf0077ad051b541^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/admin/Documents/Project/May3/May3/KeViewController.m0000000000000000^3502"CompileC BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/KeViewController.o May3/KeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Documents/Project/May3    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/May3-generated-files.hmap -I/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/May3-own-target-headers.hmap -I/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/May3-all-target-headers.hmap -iquote /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/May3-project-headers.hmap -I/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/include -I/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/DerivedSources/i386 -I/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/DerivedSources -F/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator -include /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/PrecompiledHeaders/May3-Prefix-cjbesqbjiqrukxbgsabxrhagxhpz/May3-Prefix.pch -MMD -MT dependencies -MF /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/KeViewController.d --serialize-diagnostics /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/KeViewController.dia -c /Users/admin/Documents/Project/May3/May3/KeViewController.m -o /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/KeViewController.o36"3729A75C-017B-4823-BA85-091DEBC39591-
+
+CCompileC BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/View.o /Users/admin/Documents/Project/May3/May3/View.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s357683998.676631
+e357683998.743043
+r1
+xCompileC
+xBuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/View.o
+x/Users/admin/Documents/Project/May3/May3/View.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/admin/Documents/Project/May3/May3/View.mee5bad1ed351b541^df37be1ed351b541^---0#0#0#-19%DVTDocumentLocation2@63"file://localhost/Users/admin/Documents/Project/May3/May3/View.m0000000000000000^3430"CompileC BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/View.o May3/View.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Documents/Project/May3    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/May3-generated-files.hmap -I/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/May3-own-target-headers.hmap -I/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/May3-all-target-headers.hmap -iquote /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/May3-project-headers.hmap -I/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/include -I/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/DerivedSources/i386 -I/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/DerivedSources -F/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator -include /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/PrecompiledHeaders/May3-Prefix-cjbesqbjiqrukxbgsabxrhagxhpz/May3-Prefix.pch -MMD -MT dependencies -MF /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/View.d --serialize-diagnostics /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/View.dia -c /Users/admin/Documents/Project/May3/May3/View.m -o /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/View.o36"24298CCE-97E1-4498-A99A-930986F5FB86-
+
+CCompileC BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/main.o /Users/admin/Documents/Project/May3/May3/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s357683012.911912
+e357683013.072994
+r1
+xCompileC
+xBuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/main.o
+x/Users/admin/Documents/Project/May3/May3/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/admin/Documents/Project/May3/May3/main.m2bd9e944cf51b541^a8c31245cf51b541^---0#0#0#-19%DVTDocumentLocation2@63"file://localhost/Users/admin/Documents/Project/May3/May3/main.m0000000000000000^3430"CompileC BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/main.o May3/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Documents/Project/May3    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/May3-generated-files.hmap -I/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/May3-own-target-headers.hmap -I/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/May3-all-target-headers.hmap -iquote /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/May3-project-headers.hmap -I/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/include -I/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/DerivedSources/i386 -I/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/DerivedSources -F/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator -include /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/PrecompiledHeaders/May3-Prefix-cjbesqbjiqrukxbgsabxrhagxhpz/May3-Prefix.pch -MMD -MT dependencies -MF /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/main.dia -c /Users/admin/Documents/Project/May3/May3/main.m -o /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/main.o36"78F5FE40-7D1F-47EF-843A-0EC6778768EA-
+
+CCopyStringsFile /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app/en.lproj/InfoPlist.strings May3/en.lproj/InfoPlist.strings
+s357683013.367350
+e357683013.433768
+r1
+xCopyStringsFile
+x/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app/en.lproj/InfoPlist.strings
+xMay3/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy May3/en.lproj/InfoPlist.strings31ed6b45cf51b541^25236f45cf51b541^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/admin/Documents/Project/May3/May3/en.lproj/InfoPlist.strings0000000000000000^609"CopyStringsFile BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app/en.lproj/InfoPlist.strings May3/en.lproj/InfoPlist.strings    cd /Users/admin/Documents/Project/May3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app/en.lproj -- May3/en.lproj/InfoPlist.strings36"23FF1D09-0C57-4957-BA68-67032EC3870C-
+
+CGenerateDSYMFile /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app.dSYM /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app/May3
+s357683998.791814
+e357683998.817702
+r1
+xGenerateDSYMFile
+x/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app.dSYM
+x/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app/May3
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Generating /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app.dSYMa4c4ca1ed351b541^3675d21ed351b541^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app.dSYM/0000000000000000^711"GenerateDSYMFile BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app.dSYM BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app/May3    cd /Users/admin/Documents/Project/May3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app/May3 -o /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app.dSYM36"2F1F9218-80B6-41C1-BBFC-A0BBF4FB95FB-
+
+CLd /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app/May3 normal i386
+s357683998.749894
+e357683998.785440
+r1
+xLd
+x/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app/May3
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Link /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app/May38b16c01ed351b541^2448c91ed351b541^---0#0#0#--1260"Ld BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app/May3 normal i386    cd /Users/admin/Documents/Project/May3    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator -F/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator -filelist /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/Objects-normal/i386/May3.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app/May336"8D3BED39-783E-4AB2-867B-DAE52D4F61A3-
+
+CProcessInfoPlistFile /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app/Info.plist May3/May3-Info.plist
+s357683012.466579
+e357683012.470178
+r1
+xProcessInfoPlistFile
+x/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app/Info.plist
+xMay3/May3-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Process May3/May3-Info.plist27877744cf51b541^1a527d44cf51b541^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/admin/Documents/Project/May3/May3/May3-Info.plist0000000000000000^698"ProcessInfoPlistFile BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app/Info.plist May3/May3-Info.plist    cd /Users/admin/Documents/Project/May3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility May3/May3-Info.plist -genpkginfo /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app/Info.plist36"FB3BAE63-83F6-4142-A2F9-3580F3FBACCB-
+
+CProcessPCH /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/PrecompiledHeaders/May3-Prefix-cjbesqbjiqrukxbgsabxrhagxhpz/May3-Prefix.pch.pth May3/May3-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s357683012.478450
+e357683012.904871
+r1
+xProcessPCH
+x/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/PrecompiledHeaders/May3-Prefix-cjbesqbjiqrukxbgsabxrhagxhpz/May3-Prefix.pch.pth
+xMay3/May3-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile May3/May3-Prefix.pchabb37a44cf51b541^c713e944cf51b541^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/admin/Documents/Project/May3/May3/May3-Prefix.pch0000000000000000^3331"ProcessPCH BuildOutput/May3/Build/Intermediates/PrecompiledHeaders/May3-Prefix-cjbesqbjiqrukxbgsabxrhagxhpz/May3-Prefix.pch.pth May3/May3-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Documents/Project/May3    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/May3-generated-files.hmap -I/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/May3-own-target-headers.hmap -I/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/May3-all-target-headers.hmap -iquote /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/May3-project-headers.hmap -I/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/include -I/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/DerivedSources/i386 -I/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/May3.build/Debug-iphonesimulator/May3.build/DerivedSources -F/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/PrecompiledHeaders/May3-Prefix-cjbesqbjiqrukxbgsabxrhagxhpz/May3-Prefix.pch.dia -c /Users/admin/Documents/Project/May3/May3/May3-Prefix.pch -o /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/PrecompiledHeaders/May3-Prefix-cjbesqbjiqrukxbgsabxrhagxhpz/May3-Prefix.pch.pth -MMD -MT dependencies -MF /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Intermediates/PrecompiledHeaders/May3-Prefix-cjbesqbjiqrukxbgsabxrhagxhpz/May3-Prefix.pch.d36"56DCB11C-381F-4252-9E8D-41C61A868B7D-
+
+CProcessPCH /Users/admin/Documents/Project/May3/BuildOutput/May3/Index/PrecompiledHeaders/May3-Prefix-ersgvijexiaufdgwiezhwqvbrpqu_ast/May3-Prefix.pch.pth May3/May3-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app
+s357683998.833618
+e357683998.840113
+r1
+xTouch
+x/Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Touch /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app5377d51ed351b541^c711d71ed351b541^---0#0#0#--428"Touch BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app    cd /Users/admin/Documents/Project/May3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/admin/Documents/Project/May3/BuildOutput/May3/Build/Products/Debug-iphonesimulator/May3.app36"BDA02823-6364-448E-9021-68DE6609F568-
+
